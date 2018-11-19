@@ -16,8 +16,6 @@ buildscript {
 
 dependencies {
   repositories {
-    mavenLocal()
-    mavenCentral()
     google()
     maven {
       url 'https://maven.google.com/'
